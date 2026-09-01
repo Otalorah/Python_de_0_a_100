@@ -6,7 +6,7 @@ Este repositorio es el centro de material para el curso.
 
 | Archivo / Directorio                                                                     | Función                                             | Periodos Actualización |
 | :--------------------------------------------------------------------------------------- | :-------------------------------------------------- | :--------------------- |
-| [reporte_asistencia_total.csv](./reporte_asistencia.csv)                           | Reporte consolidado de asistencias.                 | Semanal                |
+| [reporte_asistencia.csv](./reporte_asistencia.csv)                           | Reporte consolidado de asistencias.                 | Semanal                |
 | [Syllabus_curso.pdf](./Syllabus_curso.pdf)                                               | Hoja de ruta académica y cronograma.                | Estático               |
 | [Sintaxis Variables y Tipos de Datos/](./Sintaxis%20Variables%20y%20Tipos%20de%20Datos/) | Ejemplos de código y notebooks.                     | Continuo               |
 
