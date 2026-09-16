@@ -8,6 +8,7 @@ Este repositorio es el centro de material para el curso.
 | :--------------------------------------------------------------------------------------- | :-------------------------------------------------- | :--------------------- |
 | [reporte_asistencia.csv](./reporte_asistencia.csv)                           | Reporte consolidado de asistencias.                 | Semanal                |
 | [Syllabus_curso.pdf](./Syllabus_curso.pdf)                                               | Hoja de ruta académica y cronograma.                | Estático               |
+| [puntos.md](./puntos.md)                                                                 | Registro puntos ganados en clase                   | Semanal |
 
 ## 📅 Cronograma de Evaluaciones y Entregas
 
